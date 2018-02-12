@@ -10,7 +10,7 @@ Just like how you wouldn’t blindly duplicate and use an open source software r
 * **Who wrote this document?** Was it created by a BigLaw partner, or a graduate of Google-Twitter-Facebook Law School? Not to say the latter is always untrustworthy, but you should do extra verification.
 * **Note the disclaimers in the document.** The document may not be suitable, accurate, or applicable for certain types of businesses, industries, and use cases. Make sure not to accidentally apply the wrong document 
 
-### TLDR of Document:
+### TLDR of the US 50 State Virtual Currency Sales Survey:
 * The following states are unlikely to currently regulate virtual currency sales under state money transmission statutes: CA, ID, IL, KS, LA, MD, MO, MT, NH, NC, TN, TX and WI.
 
 * The following states are likely to regulate virtual currency sales under state money transmission statutes: AL, CT, HI, NY, VT, and WA.
