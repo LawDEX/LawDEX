@@ -11,10 +11,3 @@ Just like how you wouldn’t blindly duplicate and use an open source software r
 * **What was the fact pattern underlying this analysis?** Who was this written for, and under what context? Perhaps the analysis only applies to those in a specific situation. 
 * **Who wrote this document?** Was it created by a BigLaw partner, or a graduate of Google-Twitter-Facebook Law School? Not to say the latter is always untrustworthy, but you should do extra verification.
 * **Note the disclaimers in the document.** The document may not be suitable, accurate, or applicable for certain types of businesses, industries, and use cases. Make sure not to accidentally apply the wrong document 
-
-### TLDR of the US 50 State Virtual Currency Sales Survey:
-* The following states are unlikely to currently regulate virtual currency sales under state money transmission statutes: CA, ID, IL, KS, LA, MD, MO, MT, NH, NC, TN, TX and WI.
-
-* The following states are likely to regulate virtual currency sales under state money transmission statutes: AL, CT, HI, NY, VT, and WA.
-
-* The remaining states (AK, AZ, AR, CO, DC, DE, FL, GA, IN, IA, KY, ME, MA, MI, MN, MS, NE, NV, NJ, NM, ND, OH, OK, OR, PA, RI, SC, SD, UT, WV, WY) have not yet weighed in on the issue.
