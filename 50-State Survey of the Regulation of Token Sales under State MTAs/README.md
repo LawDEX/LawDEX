@@ -2,9 +2,7 @@
 
 Doing an ICO or an airdrop soon? You should be aware of state money transmission laws. 
 
-This survey was researched and drafted by [Thomas Brown](https://www.paulhastings.com/professionals/details/tombrown) and [Molly Swartz](https://www.paulhastings.com/professionals/details/mollyswartz) of [Paul Hastings](https://www.paulhastings.com). This survey guided [Mobius](https://mobius.network) in forming its token sale policies. The survey gives a breakdown of how likely and unlikely each state is to regulate virtual currency sales under state money transmission statutes.
-
-[Coin Center's 50 State Regulatory Analysis](https://coincenter.org/page/state-digital-currency-regulatory-tracker) may also be valuable for learning about the US state-by-state regulatory landscape.
+This survey was researched and drafted by [Thomas Brown](https://www.paulhastings.com/professionals/details/tombrown) and [Molly Swartz](https://www.paulhastings.com/professionals/details/mollyswartz) of [Paul Hastings](https://www.paulhastings.com). This survey guided [Mobius](https://mobius.network) in forming its token sale policies. The survey gives a breakdown of how likely each state is to regulate virtual currency sales under state money transmission statutes.
 
 ## Data & Analysis
 * The following states are unlikely to currently regulate virtual currency sales under state money transmission statutes: CA, ID, IL, KS, LA, MD, MO, MT, NH, NC, TN, TX and WI.
@@ -15,9 +13,13 @@ This survey was researched and drafted by [Thomas Brown](https://www.paulhasting
 
 ## Conclusion
 
-Alamaba, Connecticut, Hawaii, New York, Vermont, and Washington appear to take the position that the exchange of fiat currency for virtual currency or virtual currency for virtual currency triggers money transmission or bit license requirements. While these states appear more intent on regulating exchange activity than token sales, they can be fairly aggressive when it comes to punishments based on state money-transmission acts.
+Alamaba, Connecticut, Hawaii, New York, Vermont, and Washington appear to take the position that the exchange of fiat currency for virtual currency or virtual currency for virtual currency triggers money transmission or bit license requirements. While these states appear more intent on regulating exchange activity than token sales, they can be fairly aggressive when it comes to state money-transmission acts.
 
-Based on this [Mobius](https://mobius.network) decided that including the states of Alamaba, Connecticut, Hawaii, New York, Vermont, and Washington in its sale would pose a risk and thus excluded them from its sale.
+Based on this [Mobius](https://mobius.network) decided that including the states of Alamaba, Connecticut, Hawaii, New York, Vermont, and Washington in its sale would pose an unnecessary risk and thus excluded them from its sale.
+
+## Additional Resources
+
+[Coin Center's 50 State Regulatory Analysis](https://coincenter.org/page/state-digital-currency-regulatory-tracker) may also be valuable for learning about the US state-by-state regulatory landscape.
 
 # Terms and Conditions
 
