@@ -36,3 +36,11 @@ Just as you wouldn’t blindly duplicate and use an open-source software repo fo
 * **Note the disclaimers in the document.** The document may not be suitable, accurate, or applicable for certain types of businesses, industries, and use cases. Make sure not to accidentally apply the wrong document.
 
 By using any resource in [LawDEX](https://medium.com/lawdex), you agree to these Terms and Conditions. 
+
+# Blog & Updates
+
+Follow us on [Medium](https://medium.com/lawdex)
+
+# Contact Info
+
+LawDEXProject@gmail.com
